@@ -1,4 +1,4 @@
-number = int(input("Enter the number   : "))
+number = int(input("Enter the number  : "))
 print("*" * 20)
 if number % 2 == 0:
     print(f"wow..! 🌴 {number} is an even number")
